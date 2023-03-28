@@ -1,0 +1,2 @@
+# Citron
+Site simples desenvolvido para a disciplina de Programação Web, com o objetivo de apresentar uma cafeteria fictícia de tortas artesanais. O projeto foi desenvolvido em HTML e CSS, com o auxílio do [Bootstrap](https://getbootstrap.com) para sua estilização, de modo a atender os requisitos necessários pedidos pelo professor da disciplina.
